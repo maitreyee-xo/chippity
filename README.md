@@ -13,10 +13,8 @@
 - [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ## About the Project
@@ -72,10 +70,6 @@ React state (`messages`) dynamically updates the UI as conversations progress.
    - `Screenshot.png` → user
 3. Open `index.html` directly in any browser.
 4. Start chatting with Chippity 💬
-
-## Screenshots
-
-(Add screenshots here)
 
 ## License
 
